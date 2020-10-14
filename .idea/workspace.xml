@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,6 +23,106 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18cc98a9-df37-4c95-b353-e616c6a723e0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/.tools/utils" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/.tools/utils" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/.tools/vagrant" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/.tools/vagrant" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/Vagrantfile" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/Vagrantfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/application/modules/phd/views" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/application/modules/phd/views" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/application/views/twig/partials/head.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/application/views/twig/partials/head.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/application/views/twig/views/doorway/doorway.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/application/views/twig/views/doorway/doorway.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/data/db" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/data/db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/careers/katherine.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/careers/katherine.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/careers/resources/careers-videos-promotion.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/careers/resources/careers-videos-promotion.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/careers/vloggers/abigail.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/careers/vloggers/abigail.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/careers/vloggers/emma.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/careers/vloggers/emma.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/careers/vloggers/hossam.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/careers/vloggers/hossam.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/careers/vloggers/jack.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/careers/vloggers/jack.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/careers/vloggers/phdvlog-sticker.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/careers/vloggers/phdvlog-sticker.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/careers/vloggers/samira.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/careers/vloggers/samira.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/careers/vloggers/vloggers.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/careers/vloggers/vloggers.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/china-pages/working-in-china/china-careers.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/china-pages/working-in-china/china-careers.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/china-pages/working-in-china/country-profile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/china-pages/working-in-china/country-profile.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/email/email-header-small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/email/email-header-small.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/email/email-header.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/email/email-header.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/email/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/email/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/global/search-white.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/global/search-white.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/global/sharing/medium/email.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/global/sharing/medium/email.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/global/sharing/medium/facebook.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/global/sharing/medium/facebook.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/global/sharing/medium/google.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/global/sharing/medium/google.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/global/sharing/medium/linkedin.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/global/sharing/medium/linkedin.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/global/sharing/medium/print.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/global/sharing/medium/print.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/global/sharing/medium/share.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/global/sharing/medium/share.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/global/sharing/medium/twitter.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/global/sharing/medium/twitter.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/global/sharing/small/email.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/global/sharing/small/email.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/global/sharing/small/facebook.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/global/sharing/small/facebook.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/global/sharing/small/linkedin.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/global/sharing/small/linkedin.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/global/sharing/small/print.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/global/sharing/small/print.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/global/sharing/small/share.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/global/sharing/small/share.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/global/sharing/small/twitter.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/global/sharing/small/twitter.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/nz/new-zealand-map.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/nz/new-zealand-map.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/nz/start.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/nz/start.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/nz/world-university-rankings.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/nz/world-university-rankings.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/phd-page/clock.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/phd-page/clock.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/phd-page/slides/ebook111.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/phd-page/slides/ebook111.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/phd-page/slides/phd-slide-4.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/phd-page/slides/phd-slide-4.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/phd-page/slides/phdfunding.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/phd-page/slides/phdfunding.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/phd-page/tools.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/phd-page/tools.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/android/res/drawable-hdpi/powered_by_google_on_non_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/android/res/drawable-hdpi/powered_by_google_on_non_white.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/android/res/drawable-hdpi/powered_by_google_on_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/android/res/drawable-hdpi/powered_by_google_on_white.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/android/res/drawable-ldpi/powered_by_google_on_non_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/android/res/drawable-ldpi/powered_by_google_on_non_white.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/android/res/drawable-ldpi/powered_by_google_on_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/android/res/drawable-ldpi/powered_by_google_on_white.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/android/res/drawable-mdpi/powered_by_google_on_non_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/android/res/drawable-mdpi/powered_by_google_on_non_white.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/android/res/drawable-mdpi/powered_by_google_on_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/android/res/drawable-mdpi/powered_by_google_on_white.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/android/res/drawable-xhdpi/powered_by_google_on_non_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/android/res/drawable-xhdpi/powered_by_google_on_non_white.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/android/res/drawable-xhdpi/powered_by_google_on_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/android/res/drawable-xhdpi/powered_by_google_on_white.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/android/res/drawable-xxhdpi/powered_by_google_on_non_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/android/res/drawable-xxhdpi/powered_by_google_on_non_white.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/android/res/drawable-xxhdpi/powered_by_google_on_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/android/res/drawable-xxhdpi/powered_by_google_on_white.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/android/res/drawable-xxxhdpi/powered_by_google_on_non_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/android/res/drawable-xxxhdpi/powered_by_google_on_non_white.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/android/res/drawable-xxxhdpi/powered_by_google_on_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/android/res/drawable-xxxhdpi/powered_by_google_on_white.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/desktop/powered_by_google_on_non_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/desktop/powered_by_google_on_non_white.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/desktop/powered_by_google_on_non_white_hdpi.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/desktop/powered_by_google_on_non_white_hdpi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/desktop/powered_by_google_on_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/desktop/powered_by_google_on_white.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/desktop/powered_by_google_on_white_hdpi.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/desktop/powered_by_google_on_white_hdpi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/ios/powered_by_google_on_non_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/ios/powered_by_google_on_non_white.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/ios/powered_by_google_on_non_white@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/ios/powered_by_google_on_non_white@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/ios/powered_by_google_on_non_white@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/ios/powered_by_google_on_non_white@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/ios/powered_by_google_on_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/ios/powered_by_google_on_white.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/ios/powered_by_google_on_white@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/ios/powered_by_google_on_white@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/ios/powered_by_google_on_white@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/powered_by_google/ios/powered_by_google_on_white@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/products/what-we-offer/Featured-job-by-email.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/products/what-we-offer/Featured-job-by-email.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/products/what-we-offer/Spotlight-Button.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/products/what-we-offer/Spotlight-Button.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/products/what-we-offer/Standard-advert.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/products/what-we-offer/Standard-advert.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/products/what-we-offer/campaign-site.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/products/what-we-offer/campaign-site.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/products/what-we-offer/employerprofile.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/products/what-we-offer/employerprofile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/products/what-we-offer/featured-button.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/products/what-we-offer/featured-button.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/products/what-we-offer/linkingpage.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/products/what-we-offer/linkingpage.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/products/what-we-offer/premierbanner.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/products/what-we-offer/premierbanner.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/products/what-we-offer/spotlight.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/products/what-we-offer/spotlight.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/products/what-we-offer/standardplus.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/products/what-we-offer/standardplus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/products/what-we-offer/targeted-button.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/products/what-we-offer/targeted-button.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/why-jobsacuk/demographics/accept-abroad-2013.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/why-jobsacuk/demographics/accept-abroad-2013.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/why-jobsacuk/demographics/age-2013.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/why-jobsacuk/demographics/age-2013.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/why-jobsacuk/demographics/attract-to-accept-2013.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/why-jobsacuk/demographics/attract-to-accept-2013.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/why-jobsacuk/demographics/consider-working-2013.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/why-jobsacuk/demographics/consider-working-2013.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/why-jobsacuk/demographics/considered-abroad-2013.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/why-jobsacuk/demographics/considered-abroad-2013.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/why-jobsacuk/demographics/education-sector-breakdown-2013.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/why-jobsacuk/demographics/education-sector-breakdown-2013.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/why-jobsacuk/demographics/extra-info-2013.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/why-jobsacuk/demographics/extra-info-2013.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/why-jobsacuk/demographics/gender-2013.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/why-jobsacuk/demographics/gender-2013.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/why-jobsacuk/demographics/highest-academic-2013.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/why-jobsacuk/demographics/highest-academic-2013.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/why-jobsacuk/demographics/industry-sector-2013.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/why-jobsacuk/demographics/industry-sector-2013.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/why-jobsacuk/demographics/job-role-2013.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/why-jobsacuk/demographics/job-role-2013.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/why-jobsacuk/demographics/prevent-to-accept-2013.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/why-jobsacuk/demographics/prevent-to-accept-2013.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/why-jobsacuk/demographics/tax-band-2013.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/why-jobsacuk/demographics/tax-band-2013.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/why-jobsacuk/demographics/where-do-our-jobseekers-2013.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/why-jobsacuk/demographics/where-do-our-jobseekers-2013.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/why-jobsacuk/demographics/work-experience-2013.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/recruiters/why-jobsacuk/demographics/work-experience-2013.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/resources/blog.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/resources/blog.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/resources/ebooks.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/resources/ebooks.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/resources/videos.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/resources/videos.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/resources/vlogs.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/resources/vlogs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/public" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/public" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/temp/cache/.empty" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/temp/cache/.empty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/omnifood.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/omnifood.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/resources/css/style.css" afterDir="false" />
@@ -36,6 +139,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ibJ569HaL6gmVTGzYV9elmwQF0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,7 +147,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jobs.ac.uk" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -62,7 +166,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602170171983</updated>
-      <workItem from="1602170173079" duration="29194000" />
+      <workItem from="1602170173079" duration="42417000" />
     </task>
     <servers />
   </component>
@@ -79,5 +183,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="559" y="279" key="FileChooserDialogImpl" timestamp="1602604604932">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="559" y="279" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602604604932" />
+    <state x="442" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1602694907825">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="442" y="231" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602694907825" />
   </component>
 </project>
