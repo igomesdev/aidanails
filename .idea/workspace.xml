@@ -23,6 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18cc98a9-df37-4c95-b353-e616c6a723e0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/.tools/utils" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/.tools/utils" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/.tools/vagrant" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/.tools/vagrant" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/Vagrantfile" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/Vagrantfile" afterDir="false" />
@@ -120,9 +121,6 @@
       <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/resources/vlogs.png" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/docs/images/resources/vlogs.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/public" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/public" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/temp/cache/.empty" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/temp/cache/.empty" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/omnifood.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/omnifood.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/resources/css/style.css" afterDir="false" />
@@ -166,7 +164,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602170171983</updated>
-      <workItem from="1602170173079" duration="42417000" />
+      <workItem from="1602170173079" duration="43313000" />
+      <workItem from="1602870333701" duration="587000" />
+      <workItem from="1602870948780" duration="5018000" />
     </task>
     <servers />
   </component>
@@ -183,6 +183,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="559" y="279" key="FileChooserDialogImpl" timestamp="1602604604932">
