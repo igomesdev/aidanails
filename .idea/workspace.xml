@@ -122,6 +122,7 @@
       <change beforePath="$PROJECT_DIR$/../jobs.ac.uk/temp/cache/.empty" beforeDir="false" afterPath="$PROJECT_DIR$/../jobs.ac.uk/temp/cache/.empty" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/resources/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -166,7 +167,7 @@
       <updated>1602170171983</updated>
       <workItem from="1602170173079" duration="43313000" />
       <workItem from="1602870333701" duration="587000" />
-      <workItem from="1602870948780" duration="9259000" />
+      <workItem from="1602870948780" duration="22926000" />
     </task>
     <servers />
   </component>

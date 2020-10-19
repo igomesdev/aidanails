@@ -20,18 +20,26 @@ $(document).ready(function () {
         $('html, body').animate({scrollTop: $('.js--section-features').offset().top}, 1000);
     });
 
-    $(function() {
-        $('a[href*=#]:not([href=#])').click(function() {
-            if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
-                var target = $(this.hash);
-                target = target.length ? target : $(['name=' + this.hash.slice(1) +']');
-                if (target.length) {
-                    $('html, body').animate({
-                        scrollTop: target.offset().top
-                    }, 1000);
-                    return false;
-                }
-            }
+    /* Mobile nav */
+    $('.js--nav-icon').click(function () {
+       var nav = $('.js--main-nav');
+
+       nav.slideToggle(200);
+    });
+
+    $( ".cross" ).hide();
+    $( ".menu" ).show();
+    $( ".hamburger" ).click(function() {
+        $( ".menu" ).slideToggle( "slow", function() {
+            $( ".hamburger" ).hide();
+            $( ".cross" ).show();
+        });
+    });
+
+    $( ".cross" ).click(function() {
+        $( ".menu" ).slideToggle( "slow", function() {
+            $( ".cross" ).hide();
+            $( ".hamburger" ).show();
         });
     });
 

@@ -276,6 +276,20 @@ header {
     border-bottom: 2px solid #e67e22;
 }
 
+/* mobile nav */
+.mobile-nav-icon {
+    float: right;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+.hamburger {
+    font-size: 200%;
+    color: #fff;
+    display: none;
+}
+
+
 /* Sticky nav */
 .sticky {
     position: fixed;
@@ -686,6 +700,33 @@ footer p {
         margin: 0 0 4% 0;
     }
 
+    .main-nav {
+        float: left;
+        margin-top: 30px;
+        margin-left: 25px;
+    }
+
+    .main-nav li {
+        display: block;
+    }
+
+    .main-nav li a:link,
+    .main-nav li a:visited {
+        display: block;
+        border: 0;
+        padding: 10px 0;
+        font-size: 100%;
+    }
+
+    .sticky .main-nav { margin-top: 10px; }
+
+    .sticky .main-nav li a:link,
+    .sticky .main-nav li a:visited { padding: 10px 0; }
+    .sticky .hamburger {
+        margin-top: -10px;
+        color: #555;
+    }
+
     h1 { font-size: 180%; }
     h2 { font-size: 150%; }
 
@@ -707,6 +748,40 @@ footer p {
 
     .works-step { margin-bottom: 20px; }
     .works-step:last-of-type { margin-bottom: 20px; }
+
+    /* New code */
+
+    .hamburger{
+        display: inline-block;
+        background:none;
+        position:absolute;
+        top:0;
+        right:0;
+        line-height:45px;
+        padding:5px 15px 0px 15px;
+        color:#999;
+        border:0;
+        font-size:1.4em;
+        font-weight:bold;
+        cursor:pointer;
+        outline:none;
+        z-index:10000000000000;
+    }
+    .cross{
+        background:none;
+        position:absolute;
+        top:0px;
+        right:0;
+        padding:7px 15px 0px 15px;
+        color:#999;
+        border:0;
+        font-size:3em;
+        line-height:65px;
+        font-weight:bold;
+        cursor:pointer;
+        outline:none;
+        z-index:10000000000000;
+    }
 }
 
 /* Small phones: from 0 to 480px */
@@ -714,83 +789,3 @@ footer p {
     section { padding: 25px 0; }
     .contact-form { width: 100%; }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
