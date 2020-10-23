@@ -21,26 +21,20 @@ $(document).ready(function () {
     });
 
     /* Mobile nav */
-    $('.js--nav-icon').click(function () {
-       var nav = $('.js--main-nav');
-
-       nav.slideToggle(200);
-    });
 
     $( ".cross" ).hide();
-    $( ".menu" ).show();
+
     $( ".hamburger" ).click(function() {
-        $( ".menu" ).slideToggle( "slow", function() {
+        $( ".js--menu" ).slideToggle( "slow", function() {
             $( ".hamburger" ).hide();
             $( ".cross" ).show();
         });
     });
 
     $( ".cross" ).click(function() {
-        $( ".menu" ).slideToggle( "slow", function() {
+        $( ".js--menu" ).slideToggle( "slow", function() {
             $( ".cross" ).hide();
             $( ".hamburger" ).show();
         });
     });
-
 });

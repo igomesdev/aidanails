@@ -283,12 +283,12 @@ header {
     cursor: pointer;
 }
 
+
 .hamburger {
     font-size: 200%;
     color: #fff;
     display: none;
 }
-
 
 /* Sticky nav */
 .sticky {
@@ -647,6 +647,10 @@ footer p {
     }
 
     .row { padding: 0 2%; }
+
+    .hamburger {
+        display: none;
+    }
 }
 
 /* small tablet to basic desktop: from 770px to 1024px */
@@ -686,6 +690,14 @@ footer p {
         font-size: 85%;
         padding: 25px 0;
     }
+
+    .main-nav {
+        display: inline-block;
+    }
+
+    .hamburger {
+        display: none;
+    }
 }
 
 /* phones to small tablets: from 480px to 770px */
@@ -701,6 +713,7 @@ footer p {
     }
 
     .main-nav {
+        display: none;
         float: left;
         margin-top: 30px;
         margin-left: 25px;
@@ -755,13 +768,13 @@ footer p {
         display: inline-block;
         background:none;
         position:absolute;
-        top:0;
-        right:0;
+        top:20px;
+        right:20px;
         line-height:45px;
         padding:5px 15px 0px 15px;
         color:#999;
         border:0;
-        font-size:1.4em;
+        font-size:2em;
         font-weight:bold;
         cursor:pointer;
         outline:none;
