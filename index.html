@@ -8,6 +8,19 @@
     <link rel="stylesheet" type="text/css" href="resources/css/style.css">
     <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;1,300&display=swap"
         rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="vendors/js/jquery.waypoints.min.js"></script>
+    <script src="https://unpkg.com/ionicons@5.2.1/dist/ionicons.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/respond@0.9.0/main.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/selectivizr@1.0.3/selectivizr.min.js"></script>
+    <script src="resources/js/script.js"></script>
+    <script>
+        $(function () {
+            $("#header").load("header.html");
+            $("#footer").load("footer.html");
+        });
+    </script>
     <title>AidaNails</title>
 </head>
 
@@ -20,24 +33,8 @@
         </div>
 
     </section>
-    <header>
-        <nav>
-            <div class="row">
-                <img src="resources/img/logo-white.png" alt="Omnifood logo" class="logo">
-                <img src="resources/img/logo.png" alt="Omnifood logo" class="logo-black">
 
-                <ul class="main-nav js--menu">
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="prices.html">Prices</a></li>
-                    <li><a href="specialoffers.html">Special Offers</a></li>
-                    <li><a href="gallery.html">Gallery</a></li>
-                    <li><a href="contactus.html">Contact Us</a></li>
-                </ul>
-                <button class="hamburger">&#9776;</button>
-                <button class="cross">&#735;</button>
-            </div>
-        </nav>
-    </header>
+    <div id="header"></div>
 
     <section class="section-header">
         <img src="resources/img/picture19.jpg" alt="frontPicture">
@@ -50,18 +47,22 @@
         <div class="row">
             <h2>Bem-vinda</h2>
             <p class="long-copy">
-                Na AidaNails você encontrará uma variedade de tratamentos de unhas práticos e de alta qualidade. Para
+                Na AidaNails você encontrará uma variedade de tratamentos de unhas práticos e de alta qualidade.
+                Para
                 nós, você é mais do que apenas um número, oferecemos apenas serviços que criam unhas bonitas e
-                saudáveis. Você não verá lima excessiva ou corte de cutícula, e levamos tempo para entender a aparência
+                saudáveis. Você não verá lima excessiva ou corte de cutícula, e levamos tempo para entender a
+                aparência
                 desejada e o que você necessita na hora. Deixe-nos cuidar do teu visual, Obrigada pela Opçao.
             </p>
         </div>
 
         <h2>Nossos tratamentos</h2>
         <p class="long-copy">
-            Só usamos produtos de qualidade para reduzir a poeira e odores fortes. Usamos produtos Semilac com cores de
+            Só usamos produtos de qualidade para reduzir a poeira e odores fortes. Usamos produtos Semilac com cores
+            de
             gel UV híbrido altamente pigmentadas e acabamentos de unha criativos.
-            Então relaxe - converse, pegue um conjunto de unhas bonito e delicie-se com um copo de espumante ou um café.
+            Então relaxe - converse, pegue um conjunto de unhas bonito e delicie-se com um copo de espumante ou um
+            café.
         </p>
 
         <div class="row">
@@ -69,8 +70,10 @@
                 <img src="resources/img/nail-ext.png" alt="frontPicture">
                 <h3>Extensões de gel ou acrílico</h3>
                 <p>
-                    As extensões de gel ou acrílico são projetadas para estender o comprimento da unha natural usando um
-                    gel especial de construção, pó acrílico para esculpir ou usar pontas de plástico. Inclui: tratamento
+                    As extensões de gel ou acrílico são projetadas para estender o comprimento da unha natural
+                    usando um
+                    gel especial de construção, pó acrílico para esculpir ou usar pontas de plástico. Inclui:
+                    tratamento
                     de unhas e cutículas, extensão da unha, escolha da cor do gel e acabamento.
                 </p>
             </div>
@@ -78,7 +81,8 @@
                 <img src="resources/img/infill.png" alt="frontPicture">
                 <h3>Preenchimento</h3>
                 <p>
-                    Lixaremos a linha de enchimento / regeneração e reaplicaremos o gel / acrílico para que a unha fique
+                    Lixaremos a linha de enchimento / regeneração e reaplicaremos o gel / acrílico para que a unha
+                    fique
                     como nova e aplicaremos o esmalte de gel de sua escolha.
                 </p>
             </div>
@@ -86,7 +90,8 @@
                 <img src="resources/img/pedicure.png" alt="frontPicture">
                 <h3>Uma manicure luxuosa</h3>
                 <p>
-                    Uma mão longa embebe e esfolia a pele para retirar a pele morta, amacia e arruma as cutículas, lixa
+                    Uma mão longa embebe e esfolia a pele para retirar a pele morta, amacia e arruma as cutículas,
+                    lixa
                     e molda as unhas, massageia as mãos e aplique esmalte em gel seguido de óleo de cutícula e loção
                     hidratante.
                 </p>
@@ -95,10 +100,13 @@
                 <img src="resources/img/manicure.png" alt="frontPicture">
                 <h3>Pedicure de Rainha</h3>
                 <p>
-                    Uma nova pedicure de luxo em nossas tigelas de cobre. Usar sais do Himalaia para embeber os pés com
-                    uma esfoliação de sal marinho e raspar o pé para remover a pele dura, antes de envolver o pé em uma
+                    Uma nova pedicure de luxo em nossas tigelas de cobre. Usar sais do Himalaia para embeber os pés
+                    com
+                    uma esfoliação de sal marinho e raspar o pé para remover a pele dura, antes de envolver o pé em
+                    uma
                     máscara de hortelã-pimenta aquecida profundamente hidratante e finalizar com um óleo de massagem
-                    para pés e pernas. Maravilhosamente relaxante e hidratante. Seguido pela sua escolha de polonês em
+                    para pés e pernas. Maravilhosamente relaxante e hidratante. Seguido pela sua escolha de polonês
+                    em
                     gel.
                 </p>
             </div>
@@ -310,49 +318,8 @@
         </div>
     </section>
 
-    <footer>
-        <div class="section-footer">
-            <div class="col span-1-of-3">
-                <p>R. Sebastião da Gama No 8B</p>
-                <p>2700-770 - Amadora</p>
-                <p>Portugal</p><br>
+    <div id="footer"></div>
 
-                <h3>Opening Times</h3>
-                <p>Segunda as Sextas - Das 09:30 as 19:30</p>
-                <p>Sabado - Das 09:30 as 19:30</p>
-                <p>Domingo - Fechado</p>
-            </div>
-            <div class="col span-1-of-3">
-                <p>Email: aidinha2001@gmail.com</p>
-                <p>Telefone: +351 963 254 009</p><br>
-                <a href="resources/views/aftercare.html">Ofertas especiais</a><br><br>
-                <a href="aftercare.html">Aftercare Advice</a>
-            </div>
-            <div class="col span-1-of-3">
-                <ul class="social-links">
-                    <li><a href="https://www.facebook.com/aidanails14">
-                            <ion-icon name="logo-facebook" class="logo-facebook"></ion-icon>
-                        </a></li>
-                    <li><a href="#">
-                            <ion-icon name="logo-twitter" class="logo-twitter"></ion-icon>
-                        </a></li>
-                    <li><a href="#">
-                            <ion-icon name="logo-google" class="logo-google"></ion-icon>
-                        </a></li>
-                    <li><a href="#">
-                            <ion-icon name="logo-instagram" class="logo-instagram"></ion-icon>
-                        </a></li>
-                </ul>
-            </div>
-        </div>
-    </footer>
-    <script src="https://unpkg.com/ionicons@5.2.1/dist/ionicons.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/respond@0.9.0/main.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/selectivizr@1.0.3/selectivizr.min.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="vendors/js/jquery.waypoints.min.js"></script>
-    <script src="resources/js/script.js"></script>
 </body>
 
 </html>
