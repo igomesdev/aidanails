@@ -670,11 +670,9 @@ input[type=checkbox] {
     grid-row-end: 9;
 }
 
-
 /* --------------------------------------------- */
 /* FOOTER */
 /* --------------------------------------------- */
-
 footer {
     background-color: #333;
     padding: 50px;
@@ -777,9 +775,6 @@ footer p {
 /* small tablet to basic desktop: from 770px to 1024px */
 @media only screen and (max-width: 1024px) {
     body { font-size: 18px; }
-
-    /*section { padding: 60px 0; } */
-
     .long-copy {
         width: 80%;
         margin-left: 10%;
@@ -821,12 +816,9 @@ footer p {
     }
 }
 
-/* phones to small tablets: from 480px to 770px */
-@media only screen and (max-width: 770px) {
+/* phones to large tablets: from 480px to 960px */
+@media only screen and (max-width: 960px) {
     body { font-size: 16px; }
-
-    /*section { padding: 30px 0; }*/
-
     .row,
     .hero-text-box { padding: 0 4%; }
     .col {

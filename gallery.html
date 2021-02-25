@@ -8,6 +8,9 @@
     <link rel="stylesheet" type="text/css" href="resources/css/style.css">
     <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;1,300&display=swap"
         rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"
+        integrity="sha512-HK5fgLBL+xu6dm/Ii3z4xhlSUyZgTT9tuc/hSrtw6uzJOvgRr2a9jyxxT1ely+B+xFAmJKVSTbpM/CuL7qxO8w=="
+        crossorigin="anonymous" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="vendors/js/jquery.waypoints.min.js"></script>
     <script src="https://unpkg.com/ionicons@5.2.1/dist/ionicons.js"></script>
@@ -34,7 +37,40 @@
 
     </section>
 
-    <div id="header"></div>
+    <!-- main navigation -->
+    <header>
+        <div class="row clearfix">
+            <img src="resources/img/logo-main.png" alt="Omnifood logo" class="logo">
+            <img src="resources/img/logo-main.png" alt="Omnifood logo" class="logo-black">
+
+            <ul class="main-nav js--menu">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="prices.html">Prices</a></li>
+                <li><a href="specialoffers.html">Special Offers</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="contactus.html">Contact Us</a></li>
+            </ul>
+        </div>
+    </header>
+
+    <!-- Mobile navigation -->
+    <div class="row topnav">
+        <img src="resources/img/logo-main.png" alt="Omnifood logo" class="logo">
+        <img src="resources/img/logo-main.png" alt="Omnifood logo" class="logo-black">
+
+        <!-- Navigation links (hidden by default) -->
+        <div id="myLinks">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="prices.html">Prices</a></li>
+            <li><a href="specialoffers.html">Special Offers</a></li>
+            <li><a href="gallery.html">Gallery</a></li>
+            <li><a href="contactus.html">Contact Us</a></li>
+        </div>
+        <!-- "Hamburger menu" / "Bar icon" to toggle the navigation links -->
+        <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+            <i class="fas fa-bars"></i>
+        </a>
+    </div>
 
     <div class="row gallery">
         <figure class="gallery__item gallery__item--1">
