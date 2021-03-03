@@ -324,16 +324,19 @@ header {
     /* Hide the links inside the navigation menu (except for logo/home) */
     .topnav #myLinks {
         display: none;
+        margin-top: 12em;
+        text-align: center;
     }
 
     /* Style navigation menu links */
     .topnav a {
         color: white;
-        padding: 14px 16px;
+        padding: 10px;
         text-decoration: none;
-        font-size: 17px;
+        font-size: 18px;
+        font-weight: bold;
         display: block;
-        margin: 30px;
+        margin: 20px;
     }
 
     /* Style the hamburger menu */
@@ -890,6 +893,11 @@ footer p {
 
     .topnav {
         display: block;
+    }
+
+    .topnav img {
+        float: left;
+        margin: -20px;
     }
 }
 
