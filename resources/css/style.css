@@ -851,6 +851,33 @@ footer p {
         padding: 10px;
         font-size: 15px;
     }
+
+    .svg-img img {
+        border-style: none;
+        position: relative;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        margin-top: 120px;
+        margin-bottom: -80px;
+        height: auto;
+        border-radius: 50%;
+        width: 250px;
+    }
+
+    h2 {
+        margin-bottom: 10px;
+    }
+    
+    .long-copy {
+        text-align: center;
+    }
+    
+    h3 {
+        text-align: center;
+    }
+
+
 }
 
 /* Small phones: from 0 to 480px */
