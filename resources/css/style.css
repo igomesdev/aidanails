@@ -365,6 +365,40 @@ header {
     margin-bottom: 30px;
 }
 
+.svg-img img {
+    border-style: none;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-top: 120px;
+    margin-bottom: -80px;
+    height: auto;
+    border-radius: 50%;
+    width: 250px;
+}
+
+/* --------------------------------------------- */
+/* PROMOTION */
+/* --------------------------------------------- */
+.section-promotion {
+    margin-bottom: 400px;
+}
+
+.section-promotion p {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.section-promotion h2 {
+    font-size: 150%;
+    margin: 50px 0 20px 0;
+}
+
+.section-promotion h3 {
+    text-align: center;
+}
+
 /* --------------------------------------------- */
 /* GALLERY PHOTO */
 /* --------------------------------------------- */
@@ -759,6 +793,15 @@ footer h2 {
 
 /* phones to largePhone: from 480px to 620px */
 @media only screen and (max-width: 620px) {
+
+    .section-promotion {
+        margin-bottom: 0px;
+    }
+
+    .section-promotion p {
+        margin-bottom: 20px;
+    }
+
     .footer-distributed .f-left-top,
     .footer-distributed .f-left-bottom,
 	.footer-distributed .f-center,
