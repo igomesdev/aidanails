@@ -100,6 +100,10 @@ ul, li {
     padding-bottom: 50px;
 }
 
+.xxl-margin-bottom-400 {
+    margin-bottom: 400px !important;
+}
+
 /* ---- PARAGRAPHS ---- */
 .long-copy {
     line-height: 145%;
@@ -427,6 +431,14 @@ header {
 
 .price-img {
     text-align: center;
+}
+
+/* --------------------------------------------- */
+/* SPECIAL OFFERS PAGE */
+/* --------------------------------------------- */
+
+.section-specialoffers {
+    margin-bottom: 0px;
 }
 
 /* --------------------------------------------- */
