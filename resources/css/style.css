@@ -376,7 +376,23 @@ header {
     margin-bottom: 30px;
 }
 
+/*
 .section-prices .long-copy {
+    margin-bottom: 30px;
+}
+*/
+
+.section-prices h3 {
+    text-align: center;
+    font-style: italic;
+    font-weight: 900;
+}
+
+.precario {
+    text-align: center;
+    font-style: italic;
+    font-weight: 400;
+    color: #dd39ba;
     margin-bottom: 30px;
 }
 
