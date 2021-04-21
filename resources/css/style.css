@@ -924,5 +924,24 @@ footer h2 {
 
 /* Small phones: from 0 to 480px */
 @media only screen and (max-width: 480px) {
-    section { padding: 25px 0; }
+    .section-features .long-copy {
+        margin-bottom: 10px;
+    }
+
+    .svg-img img {
+        margin-top: 150px;
+        margin-bottom: -120px;
+    }
+
+    .section-gallery {
+        margin: 20px auto;
+    }
+
+    .section-promotion h2 {
+        margin: 20px 0 10px 0;
+    }
+
+    h3 {
+        margin-top: 20px;
+    }
 }
