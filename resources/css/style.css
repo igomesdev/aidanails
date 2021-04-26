@@ -649,7 +649,7 @@ footer h2 {
      grid-auto-rows: 100px;
      grid-gap: 10px;
      max-width: 1140px;
-     margin: 10px auto 0 auto;
+     margin: 10px auto;
      grid-auto-flow: dense;
  }
 
@@ -1011,7 +1011,7 @@ footer h2 {
 
     .w-1, .w-2, .w-3, .w-4, .w-5, .w-6 {
         grid-column: span 1;
-        grid-row: span 2;
+        grid-row: span 3;
     }
 }
 
